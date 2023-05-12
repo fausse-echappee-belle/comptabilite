@@ -34,3 +34,15 @@
     - compte: "44566"
       montant: 22
       sens: Débit
+- type: Envoi facture client
+  numéroFacture: F42
+  date: 2023-05-12T00:00:00.000Z
+  compteClient: "411042"
+  identifiantOpération: ift4pjf0hlc
+  opérations:
+    - compte: "706042"
+      montant: 42
+      sens: Débit
+    - compte: "44566"
+      montant: 42
+      sens: Débit
