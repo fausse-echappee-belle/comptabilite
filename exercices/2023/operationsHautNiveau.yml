@@ -1,0 +1,12 @@
+- type: Envoi facture client
+  numéroFacture: F12
+  date: 2023-05-12T00:00:00.000Z
+  compteClient: "411012"
+  identifiantOpération: 2im35ueiv0s
+  opérations:
+    - compte: "706012"
+      montant: 12
+      sens: Débit
+    - compte: "44566"
+      montant: 12
+      sens: Débit
