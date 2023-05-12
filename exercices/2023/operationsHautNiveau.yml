@@ -22,3 +22,15 @@
     - compte: "44566"
       montant: 13
       sens: Débit
+- type: Envoi facture client
+  numéroFacture: F22
+  date: 2023-05-12T00:00:00.000Z
+  compteClient: "411022"
+  identifiantOpération: dijoj0gc8b4
+  opérations:
+    - compte: "706022"
+      montant: 22
+      sens: Débit
+    - compte: "44566"
+      montant: 22
+      sens: Débit
