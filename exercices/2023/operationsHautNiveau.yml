@@ -17,7 +17,7 @@
   identifiantOpération: 65qf9pe5eg8
   opérations:
     - compte: "706013"
-      montant: 13
+      montant: 13.13
       sens: Débit
     - compte: "44566"
       montant: 13
