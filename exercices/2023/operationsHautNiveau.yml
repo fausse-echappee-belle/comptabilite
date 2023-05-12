@@ -46,3 +46,15 @@
     - compte: "44566"
       montant: 42
       sens: Débit
+- type: Envoi facture client
+  numéroFacture: F1
+  date: 2023-05-12T00:00:00.000Z
+  compteClient: "411001"
+  identifiantOpération: eumjd7geslk
+  opérations:
+    - compte: "706001"
+      montant: 1
+      sens: Débit
+    - compte: "44566"
+      montant: 1
+      sens: Débit
