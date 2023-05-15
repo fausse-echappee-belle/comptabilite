@@ -1,8 +1,6 @@
-sha: 3b05b3093e7c979d8ada4da945cbff0680f65378
-personnes:
-  - nom: Alice
-    identifiant: alice0001
-  - nom: Bob
-    identifiant: bob00001
-  - identifiant: pgvp35gctmk
-    nom: Charlue
+- nom: Alice
+  identifiant: alice0001
+- nom: Bob
+  identifiant: bob00001
+- identifiant: pgvp35gctmk
+  nom: Charlue
