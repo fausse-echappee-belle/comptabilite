@@ -1,15 +1,1 @@
-- identifiantOpération: v90di40gasg
-  type: Fiche de paie
-  date: 2023-05-05T00:00:00.000Z
-  débutPériode: 2023-05-05T00:00:00.000Z
-  finPériode: 2023-05-05T00:00:00.000Z
-  opérations:
-    - compte: "641001"
-      montant: 65
-      sens: Crédit
-    - compte: "645001"
-      montant: 55
-      sens: Crédit
-    - compte: "442101"
-      montant: 55
-      sens: Crédit
+
