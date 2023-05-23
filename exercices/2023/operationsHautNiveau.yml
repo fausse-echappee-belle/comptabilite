@@ -1,87 +1,15 @@
-- type: Envoi facture client
-  numéroFacture: F12
-  date: 2023-05-12T00:00:00.000Z
-  compteClient: "411012"
-  identifiantOpération: 2im35ueiv0s
-  opérations:
-    - compte: "706012"
-      montant: 12
-      sens: Débit
-    - compte: "44566"
-      montant: 12
-      sens: Débit
-- type: Envoi facture client
-  numéroFacture: F13
-  date: 2023-05-12T00:00:00.000Z
-  compteClient: "411013"
-  identifiantOpération: 65qf9pe5eg8
-  opérations:
-    - compte: "706013"
-      montant: 13.13
-      sens: Débit
-    - compte: "44566"
-      montant: 13
-      sens: Débit
-- type: Envoi facture client
-  numéroFacture: F22
-  date: 2023-05-12T00:00:00.000Z
-  compteClient: "411022"
-  identifiantOpération: dijoj0gc8b4
-  opérations:
-    - compte: "706022"
-      montant: 22
-      sens: Débit
-    - compte: "44566"
-      montant: 22
-      sens: Débit
-- type: Envoi facture client
-  numéroFacture: F42
-  date: 2023-05-12T00:00:00.000Z
-  compteClient: "411042"
-  identifiantOpération: ift4pjf0hlc
-  opérations:
-    - compte: "706042"
-      montant: 42
-      sens: Débit
-    - compte: "44566"
-      montant: 42
-      sens: Débit
-- type: Envoi facture client
-  numéroFacture: F1
-  date: 2023-05-12T00:00:00.000Z
-  compteClient: "411001"
-  identifiantOpération: eumjd7geslk
-  opérations:
-    - compte: "706001"
-      montant: 1
-      sens: Débit
-    - compte: "44566"
-      montant: 1
-      sens: Débit
-- type: Envoi facture client
-  numéroFacture: F55
-  date: 2023-05-12T00:00:00.000Z
-  compteClient: "411055"
-  identifiantOpération: 0orsemmqjnk
-  opérations:
-    - compte: "706055"
-      montant: 55
-      sens: Débit
-    - compte: "44566"
-      montant: 55
-      sens: Débit
-- identifiantOpération: v90di40gasg
+- identifiantOpÃ©ration: v90di40gasg
   type: Fiche de paie
   date: 2023-05-05T00:00:00.000Z
-  débutPériode: 2023-05-05T00:00:00.000Z
-  finPériode: 2023-05-05T00:00:00.000Z
-  opérations:
+  dÃ©butPÃ©riode: 2023-05-05T00:00:00.000Z
+  finPÃ©riode: 2023-05-05T00:00:00.000Z
+  opÃ©rations:
     - compte: "641001"
       montant: 65
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "645001"
       montant: 55
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "442101"
       montant: 55
-      sens: Crédit
+      sens: CrÃ©dit
