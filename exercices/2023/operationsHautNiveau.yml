@@ -1,1 +1,12 @@
-
+- type: Envoi facture client
+  numéroFacture: facture numéro douze
+  date: 2023-05-23T00:00:00.000Z
+  compteClient: "411001"
+  identifiantOpération: 1n0ttp33p9s
+  opérations:
+    - compte: "706001"
+      montant: 50
+      sens: Débit
+    - compte: "44566"
+      montant: 50
+      sens: Débit
