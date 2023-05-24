@@ -13,7 +13,7 @@
 - identifiantOpération: apttn2c8nbs
   type: Achat
   date: 2023-05-24T00:00:00.000Z
-  motif: EDF
+  motif: EDF + GDF
   opérations:
     - compte: "60610000"
       montant: 513
