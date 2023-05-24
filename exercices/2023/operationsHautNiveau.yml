@@ -10,3 +10,11 @@
     - compte: "44566"
       montant: 50
       sens: Débit
+- identifiantOpération: 5vapt9edqfo
+  type: Achat
+  date: 2023-05-24
+  motif: EDF
+  opérations:
+    - compte: "60610000"
+      montant: 30.55
+      sens: Crédit
