@@ -18,3 +18,11 @@
     - compte: "60610000"
       montant: 585
       sens: Crédit
+- identifiantOpération: ppgoi42m6ac
+  type: Achat
+  date: 2023-05-24T00:00:00.000Z
+  motif: Eau
+  opérations:
+    - compte: "60611000"
+      montant: 11.85
+      sens: Crédit
