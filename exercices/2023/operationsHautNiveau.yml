@@ -18,3 +18,11 @@
     - compte: "60610000"
       montant: 585
       sens: Crédit
+- identifiantOpération: m1uam9aqua4
+  type: Réception facture fournisseur
+  date: 2023-05-25T00:00:00.000Z
+  compteFournisseur: "600158"
+  opérations:
+    - compte: "600158"
+      montant: 5152
+      sens: Crédit
