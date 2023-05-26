@@ -42,15 +42,3 @@
     - compte: "44566"
       montant: 12
       sens: Débit
-- type: Envoi facture client
-  numéroFacture: "0"
-  date: 2023-05-26T00:00:00.000Z
-  compteClient: "411"
-  identifiantOpération: 7msc505ptak
-  opérations:
-    - compte: "653"
-      montant: 5
-      sens: Débit
-    - compte: "44566"
-      montant: 5
-      sens: Débit
