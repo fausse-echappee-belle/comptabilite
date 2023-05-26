@@ -30,3 +30,15 @@
     - compte: "5451"
       montant: 55
       sens: Crédit
+- type: Envoi facture client
+  numéroFacture: "41552"
+  date: 2023-05-26T00:00:00.000Z
+  compteClient: "411000"
+  identifiantOpération: a3u2nu3tgsc
+  opérations:
+    - compte: "5152"
+      montant: 0
+      sens: Débit
+    - compte: "44566"
+      montant: 651
+      sens: Débit
