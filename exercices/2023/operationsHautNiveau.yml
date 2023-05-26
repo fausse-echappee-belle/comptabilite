@@ -30,15 +30,3 @@
     - compte: "5451"
       montant: 55
       sens: Crédit
-- type: Envoi facture client
-  numéroFacture: f12
-  date: 2023-05-26T00:00:00.000Z
-  compteClient: "411000"
-  identifiantOpération: 3i70g8m65q8
-  opérations:
-    - compte: "706012"
-      montant: 12
-      sens: Débit
-    - compte: "44566"
-      montant: 121
-      sens: Débit
