@@ -14,14 +14,6 @@
     - compte: "600158"
       montant: 5152
       sens: Crédit
-- identifiantOpération: t8ncuval8h
-  type: Réception facture fournisseur
-  date: 2023-05-25T00:00:00.000Z
-  compteFournisseur: "65132"
-  opérations:
-    - compte: "65132"
-      montant: 12
-      sens: Crédit
 - identifiantOpération: hgtpigpfj1g
   type: Réception facture fournisseur
   date: 2023-05-25T00:00:00.000Z
