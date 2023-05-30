@@ -22,18 +22,6 @@
     - compte: "5451"
       montant: 55
       sens: Crédit
-- type: Envoi facture client
-  numéroFacture: test
-  date: 2023-05-26T00:00:00.000Z
-  compteClient: "411000"
-  identifiantOpération: ohokh5jmdjc
-  opérations:
-    - compte: "706155"
-      montant: 5163
-      sens: Débit
-    - compte: "44566"
-      montant: 513
-      sens: Débit
 - identifiantOpération: 1g5ifs8gdes
   type: Fiche de paie
   date: 2023-05-05T00:00:00.000Z
