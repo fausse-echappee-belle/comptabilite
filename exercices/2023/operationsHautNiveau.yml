@@ -52,8 +52,8 @@
 - identifiantOpération: sumbo8vbpds
   type: Fiche de paie
   date: 2023-05-05T00:00:00.000Z
-  débutPériode: 2020-01-05T00:00:00.000Z
-  finPériode: 2020-02-05T00:00:00.000Z
+  débutPériode: 2020-12-01T00:00:00.000Z
+  finPériode: 2020-12-31T00:00:00.000Z
   opérations:
     - compte: "641034"
       montant: 1
