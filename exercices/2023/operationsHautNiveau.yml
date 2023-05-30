@@ -70,12 +70,12 @@
   débutPériode: 2023-12-01T00:00:00.000Z
   finPériode: 2023-12-31T00:00:00.000Z
   opérations:
-    - compte: "644796"
-      montant: 1571.02
+    - compte: "641034"
+      montant: 2629.11
       sens: Crédit
-    - compte: "648796"
-      montant: 422.82
+    - compte: "645034"
+      montant: 770.41
       sens: Crédit
-    - compte: "445896"
-      montant: 34.94
+    - compte: "442134"
+      montant: 300.47
       sens: Crédit
