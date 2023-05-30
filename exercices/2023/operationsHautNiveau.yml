@@ -56,7 +56,7 @@
   finPériode: 2020-12-31T00:00:00.000Z
   opérations:
     - compte: "641034"
-      montant: 1
+      montant: 3
       sens: Crédit
     - compte: "645034"
       montant: 1
