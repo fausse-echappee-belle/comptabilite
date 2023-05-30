@@ -34,3 +34,18 @@
     - compte: "44566"
       montant: 513
       sens: Débit
+- identifiantOpération: 1g5ifs8gdes
+  type: Fiche de paie
+  date: 2023-05-05T00:00:00.000Z
+  débutPériode: 2023-05-01T00:00:00.000Z
+  finPériode: 2023-05-20T00:00:00.000Z
+  opérations:
+    - compte: "641034"
+      montant: 1
+      sens: Crédit
+    - compte: "645034"
+      montant: 1
+      sens: Crédit
+    - compte: "442134"
+      montant: 1
+      sens: Crédit
