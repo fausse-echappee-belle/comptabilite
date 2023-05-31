@@ -1,11 +1,11 @@
 - type: Envoi facture client
-  numéroFacture: F1
+  numéroFacture: F2
   date: 2020-10-28T00:00:00.000Z
   compteClient: Numa
   identifiantOpération: vtkn2fl4sa8
   lignes:
     - compteProduit: "706"
-      montantHT: 2250
+      montantHT: 2251
       tauxTVA: 20
   opérations:
     - compte: "44566"
