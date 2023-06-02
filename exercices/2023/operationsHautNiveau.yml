@@ -82,3 +82,12 @@
     - compte: "445896"
       montant: 34.94
       sens: Crédit
+- type: Envoi facture client
+  numéroFacture: fausse facture
+  date: 2023-06-02T14:56:41.869Z
+  compteClient: faux client
+  identifiantOpération: vp7n3dp4ass
+  lignes:
+    - compteProduit: "706001"
+      montantHT: 65
+      tauxTVA: 20
