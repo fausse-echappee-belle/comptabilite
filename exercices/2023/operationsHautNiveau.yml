@@ -91,3 +91,4 @@
     - compteProduit: "706001"
       montantHT: 65
       tauxTVA: 20
+    - tauxTVA: 20
