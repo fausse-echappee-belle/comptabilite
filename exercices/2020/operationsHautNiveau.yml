@@ -14,3 +14,12 @@
     - compte: "44566"
       montant: 0
       sens: Débit
+- type: Envoi facture client
+  numéroFacture: F2
+  date: 2020-10-30T00:00:00.000Z
+  compteClient: Scopyleft
+  identifiantOpération: hle45s41mhk
+  lignes:
+    - compteProduit: "706"
+      montantHT: 13100
+      tauxTVA: 20
