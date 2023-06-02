@@ -6,4 +6,19 @@
   lignes:
     - compteProduit: "706"
       montantHT: 13100
+      tauxTVA: 10
+    - montantHT: 105
       tauxTVA: 20
+      compteProduit: "706"
+- type: Envoi facture client
+  numéroFacture: F1
+  date: 2020-10-28T00:00:00.000Z
+  compteClient: Numa
+  identifiantOpération: iev4sr0aggg
+  lignes:
+    - compteProduit: "706"
+      montantHT: 1200
+      tauxTVA: 20
+    - montantHT: 1050
+      tauxTVA: 20
+      compteProduit: "706"
