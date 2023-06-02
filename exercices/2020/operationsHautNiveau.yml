@@ -19,3 +19,12 @@
     - montantHT: 1050
       tauxTVA: 20
       compteProduit: "706"
+- type: Envoi facture client
+  numéroFacture: F3
+  date: 2020-11-03T00:00:00.000Z
+  compteClient: /ut7
+  identifiantOpération: 3c9lqc2tlgk
+  lignes:
+    - compteProduit: "706"
+      montantHT: 3850
+      tauxTVA: 20
