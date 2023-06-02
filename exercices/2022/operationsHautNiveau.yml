@@ -1,9 +1,0 @@
-- type: Envoi facture client
-  numéroFacture: "45"
-  date: 2022-06-02T00:00:00.000Z
-  compteClient: client de 2022
-  identifiantOpération: p9m2eaoab4g
-  lignes:
-    - compteProduit: "706002"
-      montantHT: 6513
-      tauxTVA: 10
