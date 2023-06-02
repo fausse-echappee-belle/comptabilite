@@ -92,3 +92,12 @@
       montantHT: 65
       tauxTVA: 20
     - tauxTVA: 20
+- type: Envoi facture client
+  numéroFacture: ""
+  date: 2023-06-02T14:58:35.457Z
+  compteClient: ""
+  identifiantOpération: p9m2eaoab4g
+  lignes:
+    - compteProduit: ""
+      montantHT: 0
+      tauxTVA: 0
