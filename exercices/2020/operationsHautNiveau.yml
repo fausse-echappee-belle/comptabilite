@@ -1,7 +1,7 @@
 - type: Envoi facture client
   numéroFacture: F2
   date: 2020-10-30T00:00:00.000Z
-  compteClient: Scopyleft
+  compteClient: ""
   identifiantOpération: hle45s41mhk
   lignes:
     - compteProduit: "706"
@@ -22,7 +22,7 @@
 - type: Envoi facture client
   numéroFacture: F3
   date: 2020-11-03T00:00:00.000Z
-  compteClient: /ut7
+  compteClient: "4112"
   identifiantOpération: 3c9lqc2tlgk
   lignes:
     - compteProduit: "706"
