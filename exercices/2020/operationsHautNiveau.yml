@@ -1,7 +1,7 @@
 - type: Envoi facture client
   numéroFacture: F2
   date: 2020-10-30T00:00:00.000Z
-  compteClient: ""
+  compteClient: "4113"
   identifiantOpération: hle45s41mhk
   lignes:
     - compteProduit: "706"
