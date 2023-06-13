@@ -10,7 +10,7 @@
 - type: Envoi facture client
   numéroFacture: F1
   date: 2020-10-28T00:00:00.000Z
-  compteClient: Numa
+  compteClient: "4114"
   identifiantOpération: iev4sr0aggg
   lignes:
     - compteProduit: "706"
