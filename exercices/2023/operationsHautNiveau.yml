@@ -84,7 +84,7 @@
       sens: Crédit
 - type: Envoi facture client
   numéroFacture: fausse facture
-  date: 2023-06-02T14:56:41.869Z
+  date: 2023-05-02T00:00:00.000Z
   compteClient: faux client
   identifiantOpération: vp7n3dp4ass
   lignes:
