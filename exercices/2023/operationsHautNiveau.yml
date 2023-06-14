@@ -98,6 +98,6 @@
   compteClient: "411"
   identifiantOpération: p9m2eaoab4g
   lignes:
-    - compteProduit: ""
+    - compteProduit: "700"
       montantHT: 0
       tauxTVA: 0
