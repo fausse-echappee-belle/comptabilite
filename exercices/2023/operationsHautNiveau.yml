@@ -94,8 +94,8 @@
     - tauxTVA: 20
 - type: Envoi facture client
   numéroFacture: ""
-  date: 2023-06-02T14:58:35.457Z
-  compteClient: ""
+  date: 2023-06-02T00:00:00.000Z
+  compteClient: "411"
   identifiantOpération: p9m2eaoab4g
   lignes:
     - compteProduit: ""
