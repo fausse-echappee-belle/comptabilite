@@ -93,6 +93,7 @@
       tauxTVA: 20
     - tauxTVA: 20
       compteProduit: "706607"
+      montantHT: 0
 - type: Envoi facture client
   numéroFacture: ""
   date: 2023-06-02T00:00:00.000Z
