@@ -103,3 +103,12 @@
     - compteProduit: "700"
       montantHT: 0
       tauxTVA: 0
+- type: Envoi facture client
+  numéroFacture: ""
+  date: 2023-06-15T08:37:17.267Z
+  compteClient: "411"
+  identifiantOpération: nuo5r5tvae8
+  lignes:
+    - compteProduit: ""
+      montantHT: 100
+      tauxTVA: 10
