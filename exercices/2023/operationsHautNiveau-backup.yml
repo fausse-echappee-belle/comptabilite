@@ -1,92 +1,92 @@
-- identifiantOpération: apttn2c8nbs
+- identifiantOpÃ©ration: apttn2c8nbs
   type: Achat
   date: 2023-05-24T00:00:00.000Z
   motif: EDF + GDF
-  opérations:
+  opÃ©rations:
     - compte: "60610000"
       montant: 585
-      sens: Crédit
-- identifiantOpération: m1uam9aqua4
-  type: Réception facture fournisseur
+      sens: CrÃ©dit
+- identifiantOpÃ©ration: m1uam9aqua4
+  type: RÃ©ception facture fournisseur
   date: 2023-05-25T00:00:00.000Z
   compteFournisseur: "600158"
-  opérations:
+  opÃ©rations:
     - compte: "600158"
       montant: 5152
-      sens: Crédit
-- identifiantOpération: hgtpigpfj1g
-  type: Réception facture fournisseur
+      sens: CrÃ©dit
+- identifiantOpÃ©ration: hgtpigpfj1g
+  type: RÃ©ception facture fournisseur
   date: 2023-05-25T00:00:00.000Z
   compteFournisseur: "5451"
-  opérations:
+  opÃ©rations:
     - compte: "5451"
       montant: 55
-      sens: Crédit
-- identifiantOpération: 1g5ifs8gdes
+      sens: CrÃ©dit
+- identifiantOpÃ©ration: 1g5ifs8gdes
   type: Fiche de paie
   date: 2023-05-05T00:00:00.000Z
-  débutPériode: 2023-05-01T00:00:00.000Z
-  finPériode: 2023-05-20T00:00:00.000Z
-  opérations:
+  dÃ©butPÃ©riode: 2023-05-01T00:00:00.000Z
+  finPÃ©riode: 2023-05-20T00:00:00.000Z
+  opÃ©rations:
     - compte: "641034"
       montant: 1
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "645034"
       montant: 1
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "442134"
       montant: 1
-      sens: Crédit
-- identifiantOpération: sumbo8vbpds
+      sens: CrÃ©dit
+- identifiantOpÃ©ration: sumbo8vbpds
   type: Fiche de paie
   date: 2023-12-31T00:00:00.000Z
-  débutPériode: 2023-12-01T00:00:00.000Z
-  finPériode: 2023-12-31T00:00:00.000Z
-  opérations:
+  dÃ©butPÃ©riode: 2023-12-01T00:00:00.000Z
+  finPÃ©riode: 2023-12-31T00:00:00.000Z
+  opÃ©rations:
     - compte: "641093"
       montant: 1460.14
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "645093"
       montant: 400.93
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "442193"
       montant: 33.85
-      sens: Crédit
-- identifiantOpération: 4nppnb1ue2s
+      sens: CrÃ©dit
+- identifiantOpÃ©ration: 4nppnb1ue2s
   type: Fiche de paie
   date: 2023-12-31T00:00:00.000Z
-  débutPériode: 2023-12-01T00:00:00.000Z
-  finPériode: 2023-12-31T00:00:00.000Z
-  opérations:
+  dÃ©butPÃ©riode: 2023-12-01T00:00:00.000Z
+  finPÃ©riode: 2023-12-31T00:00:00.000Z
+  opÃ©rations:
     - compte: "641034"
       montant: 2629.11
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "645034"
       montant: 770.41
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "442134"
       montant: 300.47
-      sens: Crédit
-- identifiantOpération: cu4pebv0bug
+      sens: CrÃ©dit
+- identifiantOpÃ©ration: cu4pebv0bug
   type: Fiche de paie
   date: 2023-12-31T00:00:00.000Z
-  débutPériode: 2023-12-01T00:00:00.000Z
-  finPériode: 2023-12-31T00:00:00.000Z
-  opérations:
+  dÃ©butPÃ©riode: 2023-12-01T00:00:00.000Z
+  finPÃ©riode: 2023-12-31T00:00:00.000Z
+  opÃ©rations:
     - compte: "644796"
       montant: 1571.02
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "648796"
       montant: 422.82
-      sens: Crédit
+      sens: CrÃ©dit
     - compte: "445896"
       montant: 34.94
-      sens: Crédit
+      sens: CrÃ©dit
 - type: Envoi facture client
-  numéroFacture: fausse facture
+  numÃ©roFacture: fausse facture
   date: 2023-05-02T00:00:00.000Z
   compteClient: "200"
-  identifiantOpération: vp7n3dp4ass
+  identifiantOpÃ©ration: vp7n3dp4ass
   lignes:
     - compteProduit: "706001"
       montantHT: 65
@@ -95,19 +95,19 @@
       compteProduit: "706607"
       montantHT: 0
 - type: Envoi facture client
-  numéroFacture: ""
+  numÃ©roFacture: ""
   date: 2023-06-02T00:00:00.000Z
   compteClient: "411"
-  identifiantOpération: p9m2eaoab4g
+  identifiantOpÃ©ration: p9m2eaoab4g
   lignes:
     - compteProduit: "700"
       montantHT: 0
       tauxTVA: 0
 - type: Envoi facture client
-  numéroFacture: ""
+  numÃ©roFacture: ""
   date: 2023-06-15T08:37:17.267Z
   compteClient: ""
-  identifiantOpération: nuo5r5tvae8
+  identifiantOpÃ©ration: nuo5r5tvae8
   lignes:
     - compteProduit: ""
       montantHT: 100
