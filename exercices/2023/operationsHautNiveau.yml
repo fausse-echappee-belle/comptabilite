@@ -106,7 +106,7 @@
 - type: Envoi facture client
   numéroFacture: ""
   date: 2023-06-15T08:37:17.267Z
-  compteClient: "411"
+  compteClient: ""
   identifiantOpération: nuo5r5tvae8
   lignes:
     - compteProduit: ""
