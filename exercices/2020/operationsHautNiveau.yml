@@ -1,0 +1,12 @@
+- type: Envoi facture client
+  numéroFacture: "1"
+  date: 2020-06-01T00:00:00.000Z
+  compteClient: "1"
+  identifiantOpération: n2hokab3ljo
+  opérations:
+    - compte: "5"
+      montant: 2
+      sens: Débit
+    - compte: "44566"
+      montant: 2
+      sens: Débit
