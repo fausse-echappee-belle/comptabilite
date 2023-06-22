@@ -1,1 +1,12 @@
-
+- type: Envoi facture client
+  numéroFacture: F1
+  date: 2020-10-28T00:00:00.000Z
+  compteClient: 411xx
+  identifiantOpération: ia4m9mf293
+  lignes:
+    - compteProduit: "706"
+      montantHT: 1200
+      tauxTVA: 20
+    - montantHT: 1050
+      tauxTVA: 20
+      compteProduit: "706"
