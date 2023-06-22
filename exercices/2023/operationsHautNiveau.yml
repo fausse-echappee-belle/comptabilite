@@ -1,0 +1,9 @@
+- type: Envoi facture client
+  numéroFacture: "2"
+  date: 2023-06-22T12:58:32.782Z
+  compteClient: 411xx
+  identifiantOpération: odqvak3q0s
+  lignes:
+    - compteProduit: ""
+      montantHT: 100
+      tauxTVA: 10
