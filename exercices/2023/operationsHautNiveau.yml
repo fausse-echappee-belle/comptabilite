@@ -13,12 +13,12 @@
   débutPériode: 2023-06-01T00:00:00.000Z
   finPériode: 2023-06-30T00:00:00.000Z
   opérations:
-    - compte: 641002
+    - compte: '641002'
       montant: 2000
       sens: Crédit
-    - compte: 645000
+    - compte: '645002'
       montant: 100
       sens: Crédit
-    - compte: 442100
+    - compte: '442102'
       montant: 10
       sens: Crédit
