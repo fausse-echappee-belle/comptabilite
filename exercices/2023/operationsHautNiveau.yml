@@ -7,3 +7,18 @@
     - compteProduit: ""
       montantHT: 100
       tauxTVA: 10
+- identifiantOpération: hjshnn9spc
+  type: Fiche de paie
+  date: 2023-06-26T00:00:00.000Z
+  débutPériode: 2023-06-01T00:00:00.000Z
+  finPériode: 2023-06-30T00:00:00.000Z
+  opérations:
+    - compte: 641000NaN
+      montant: 2000
+      sens: Crédit
+    - compte: 645000NaN
+      montant: 100
+      sens: Crédit
+    - compte: 442100NaN
+      montant: 10
+      sens: Crédit
