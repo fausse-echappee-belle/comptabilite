@@ -13,12 +13,12 @@
   débutPériode: 2023-06-01T00:00:00.000Z
   finPériode: 2023-06-30T00:00:00.000Z
   opérations:
-    - compte: 641000NaN
+    - compte: 641002
       montant: 2000
       sens: Crédit
-    - compte: 645000NaN
+    - compte: 645000
       montant: 100
       sens: Crédit
-    - compte: 442100NaN
+    - compte: 442100
       montant: 10
       sens: Crédit
