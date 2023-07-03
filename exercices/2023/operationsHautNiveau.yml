@@ -30,3 +30,12 @@
     - compte: "411001"
       montant: 500
       sens: Crédit
+- type: Envoi facture client
+  numéroFacture: F3
+  date: 2023-07-03T15:45:51.353Z
+  compteClient: 4111C1
+  identifiantOpération: eekrqeggtvk
+  lignes:
+    - compteProduit: "706"
+      montantHT: 10000
+      tauxTVA: 10
