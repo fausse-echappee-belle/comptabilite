@@ -22,7 +22,7 @@
 - type: Envoi facture client
   numéroFacture: F3
   date: 2020-11-03T00:00:00.000Z
-  compteClient: 4111C2
+  compteClient: 4111C3
   identifiantOpération: fgkp2mtgsqc
   lignes:
     - compteProduit: "706"
