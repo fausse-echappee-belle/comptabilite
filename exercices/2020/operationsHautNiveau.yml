@@ -49,3 +49,12 @@
     - montantHT: 8400
       tauxTVA: 20
       compteProduit: "706"
+- type: Envoi facture client
+  numéroFacture: F6
+  date: 2020-12-04T00:00:00.000Z
+  compteClient: 4111C2
+  identifiantOpération: quu0q5omqq8
+  lignes:
+    - compteProduit: "706"
+      montantHT: 600
+      tauxTVA: 20
