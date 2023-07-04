@@ -28,3 +28,12 @@
     - compteProduit: "706"
       montantHT: 3850
       tauxTVA: 20
+- type: Envoi facture client
+  numéroFacture: F4
+  date: 2020-11-17T00:00:00.000Z
+  compteClient: 4111C4
+  identifiantOpération: gsnna69itjk
+  lignes:
+    - compteProduit: "706"
+      montantHT: 833.33
+      tauxTVA: 20
