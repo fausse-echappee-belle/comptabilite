@@ -58,3 +58,12 @@
     - compteProduit: "706"
       montantHT: 600
       tauxTVA: 20
+- type: Envoi facture client
+  numéroFacture: F7
+  date: 2020-12-07T00:00:00.000Z
+  compteClient: 4111C3
+  identifiantOpération: 2knp420ctmg
+  lignes:
+    - compteProduit: "706"
+      montantHT: 2750
+      tauxTVA: 20
