@@ -1,7 +1,7 @@
 - type: Envoi facture client
   numéroFacture: F1
   date: 2020-10-28T00:00:00.000Z
-  compteClient: 411xx
+  compteClient: 4111C2
   identifiantOpération: ia4m9mf293
   lignes:
     - compteProduit: "706"
