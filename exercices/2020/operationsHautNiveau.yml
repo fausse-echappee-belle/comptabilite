@@ -37,3 +37,15 @@
     - compteProduit: "706"
       montantHT: 833.33
       tauxTVA: 20
+- type: Envoi facture client
+  numéroFacture: F5
+  date: 2020-11-17T00:00:00.000Z
+  compteClient: 4111C1
+  identifiantOpération: vb6244khbsk
+  lignes:
+    - compteProduit: "706"
+      montantHT: 7100
+      tauxTVA: 20
+    - montantHT: 8400
+      tauxTVA: 20
+      compteProduit: "706"
