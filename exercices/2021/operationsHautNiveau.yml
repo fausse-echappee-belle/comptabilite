@@ -1,0 +1,9 @@
+- type: Envoi facture client
+  numéroFacture: F10
+  date: 2021-02-22T00:00:00.000Z
+  compteClient: 4111C5
+  identifiantOpération: tmscjd659cg
+  lignes:
+    - compteProduit: "706"
+      montantHT: 7200
+      tauxTVA: 20
