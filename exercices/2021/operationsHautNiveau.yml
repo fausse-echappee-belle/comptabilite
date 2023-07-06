@@ -7,3 +7,12 @@
     - compteProduit: "706"
       montantHT: 7200
       tauxTVA: 20
+- type: Envoi facture client
+  numéroFacture: F11
+  date: 2021-02-22T00:00:00.000Z
+  compteClient: 4111C3
+  identifiantOpération: tqmat437oss
+  lignes:
+    - compteProduit: "706"
+      montantHT: 1800
+      tauxTVA: 20
