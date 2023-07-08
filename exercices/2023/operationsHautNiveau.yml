@@ -6,3 +6,13 @@
     - compte: "411001"
       montant: 500
       sens: Crédit
+- type: Fiche de paie
+  date: 2023-07-08T10:51:34.360Z
+  débutPériode: 2020-12-01T00:00:00.000Z
+  finPériode: 2020-12-31T00:00:00.000Z
+  identifiantOpération: t00qf2c7jd8
+  opérations: []
+  salarié·e: l9mqfgcl9e8
+  rémunération: 1200
+  cotisations: 700
+  prélèvementÀLaSource: 50
