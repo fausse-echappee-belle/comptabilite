@@ -16,15 +16,3 @@
   rémunération: 1200
   cotisations: 700
   prélèvementÀLaSource: 50
-- type: Envoi facture client
-  numéroFacture: F100
-  date: 2023-07-10T09:36:27.223Z
-  compteClient: 4111C1
-  identifiantOpération: 51qspahjd78
-  lignes:
-    - compteProduit: "706"
-      montantHT: 1.1
-      tauxTVA: 10
-    - montantHT: 1.1
-      tauxTVA: 10
-      compteProduit: "706"
