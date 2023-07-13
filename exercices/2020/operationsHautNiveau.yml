@@ -98,3 +98,11 @@
   rémunération: 1500
   cotisations: 800
   prélèvementÀLaSource: 100
+- type: Réception facture fournisseur
+  identifiantOpération: n8tnl07pv9o
+  compteFournisseur: Adobe
+  date: 2020-07-12T00:00:00.000Z
+  lignes:
+    - montantHT: 9.99
+      tauxTVA: 20.02002002002002
+      compteProduit: "62600000"
