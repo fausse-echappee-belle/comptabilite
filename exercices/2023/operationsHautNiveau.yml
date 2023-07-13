@@ -8,8 +8,3 @@
   rémunération: 1200
   cotisations: 700
   prélèvementÀLaSource: 50
-- identifiantOpération: 4pdkgv9lu3g
-  type: Réception facture fournisseur
-  date: 2023-07-13T16:00:44.457Z
-  opérations:
-    - sens: Crédit
