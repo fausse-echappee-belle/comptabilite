@@ -1,11 +1,3 @@
-- identifiantOpération: 6fhnbk3aebg
-  type: Réception facture fournisseur
-  date: 2023-06-27T00:00:00.000Z
-  compteFournisseur: "411001"
-  opérations:
-    - compte: "411001"
-      montant: 500
-      sens: Crédit
 - type: Fiche de paie
   date: 2023-07-08T10:51:34.360Z
   débutPériode: 2020-12-01T00:00:00.000Z
