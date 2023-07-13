@@ -1,4 +1,4 @@
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F10
   date: 2021-02-22T00:00:00.000Z
   compteClient: 4111C5
@@ -7,7 +7,7 @@
     - compteProduit: "706"
       montantHT: 7200
       tauxTVA: 20
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F11
   date: 2021-02-22T00:00:00.000Z
   compteClient: 4111C3
