@@ -1,4 +1,4 @@
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F1
   date: 2020-10-28T00:00:00.000Z
   compteClient: 4111C2
@@ -10,7 +10,7 @@
     - montantHT: 1050
       tauxTVA: 20
       compteProduit: "706"
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F2
   date: 2020-10-30T00:00:00.000Z
   compteClient: 4111C1
@@ -19,7 +19,7 @@
     - compteProduit: "706"
       montantHT: 13100
       tauxTVA: 20
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F3
   date: 2020-11-03T00:00:00.000Z
   compteClient: 4111C3
@@ -28,7 +28,7 @@
     - compteProduit: "706"
       montantHT: 3850
       tauxTVA: 20
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F4
   date: 2020-11-17T00:00:00.000Z
   compteClient: 4111C4
@@ -37,7 +37,7 @@
     - compteProduit: "706"
       montantHT: 833.33
       tauxTVA: 20
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F5
   date: 2020-11-17T00:00:00.000Z
   compteClient: 4111C1
@@ -49,7 +49,7 @@
     - montantHT: 8400
       tauxTVA: 20
       compteProduit: "706"
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F6
   date: 2020-12-04T00:00:00.000Z
   compteClient: 4111C2
@@ -58,7 +58,7 @@
     - compteProduit: "706"
       montantHT: 600
       tauxTVA: 20
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F7
   date: 2020-12-07T00:00:00.000Z
   compteClient: 4111C3
@@ -67,7 +67,7 @@
     - compteProduit: "706"
       montantHT: 2750
       tauxTVA: 20
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F8
   date: 2020-12-15T00:00:00.000Z
   compteClient: 4111C1
@@ -79,7 +79,7 @@
     - montantHT: 7200
       tauxTVA: 20
       compteProduit: "706"
-- type: Envoi facture client
+- type: Envoi facture à client
   numéroFacture: F9
   date: 2020-12-29T00:00:00.000Z
   compteClient: 4111C3
