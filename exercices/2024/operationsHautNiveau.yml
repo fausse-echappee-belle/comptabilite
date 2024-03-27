@@ -1,0 +1,9 @@
+- type: Envoi facture à client
+  numéroFacture: Fact151
+  date: 2024-01-09T00:00:00.000Z
+  compteClient: 4111C1
+  identifiant: fk3iik4usto
+  lignes:
+    - compteProduit: "706"
+      montantHT: 2750
+      tauxTVA: 20
