@@ -7,3 +7,12 @@
     - compteProduit: "706"
       montantHT: 2750
       tauxTVA: 20
+- type: Fiche de paie
+  date: 2024-03-27T14:51:47.610Z
+  débutPériode: 2024-02-01T00:00:00.000Z
+  finPériode: 2024-02-29T00:00:00.000Z
+  identifiant: 0r1m7lhc2jo
+  salarié·e: d07g56t2lck
+  rémunération: 1500
+  cotisations: 700
+  prélèvementÀLaSource: 200
