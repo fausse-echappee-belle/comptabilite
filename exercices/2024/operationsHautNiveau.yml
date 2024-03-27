@@ -16,3 +16,11 @@
   rémunération: 1500
   cotisations: 700
   prélèvementÀLaSource: 200
+- type: Réception facture fournisseur
+  identifiant: 7vsb1qasc9s
+  compteFournisseur: 4011F1
+  date: 2024-03-27T14:58:59.853Z
+  lignes:
+    - montantHT: 5
+      tauxTVA: 20
+      compteProduit: "626"
