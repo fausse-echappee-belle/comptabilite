@@ -51,3 +51,12 @@
     - compteProduit: "706"
       montantHT: 500
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: Fact155
+  date: 2024-01-14T00:00:00.000Z
+  compteClient: 4111C4
+  identifiant: qv8turfm3gc
+  lignes:
+    - compteProduit: "706"
+      montantHT: 5239.9
+      tauxTVA: 20
