@@ -42,3 +42,12 @@
     - compteProduit: "706"
       montantHT: 720
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: Fact154
+  date: 2024-01-12T00:00:00.000Z
+  compteClient: 4111C3
+  identifiant: 01bn5a09am4
+  lignes:
+    - compteProduit: "706"
+      montantHT: 500
+      tauxTVA: 20
