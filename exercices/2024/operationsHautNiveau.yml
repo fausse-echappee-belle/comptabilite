@@ -69,12 +69,3 @@
     - compteProduit: "706"
       montantHT: 5000
       tauxTVA: 20
-- type: Fiche de paie
-  date: 2024-02-01T00:00:00.000Z
-  débutPériode: 2024-01-01T00:00:00.000Z
-  finPériode: 2024-01-31T00:00:00.000Z
-  identifiant: p8l7e8fnka
-  salarié·e: d07g56t2lck
-  rémunération: 1519.75
-  cotisations: 436.66
-  prélèvementÀLaSource: 1455
