@@ -3,6 +3,6 @@
   compteFournisseur: 4011F2
   date: 2023-11-02T00:00:00.000Z
   lignes:
-    - montantHT: 666.98
+    - montantHT: 666.71
       tauxTVA: 19.9
       compteProduit: "626"
