@@ -24,3 +24,12 @@
     - montantHT: 5
       tauxTVA: 20
       compteProduit: "626"
+- type: Envoi facture à client
+  numéroFacture: Fact153
+  date: 2024-01-11T00:00:00.000Z
+  compteClient: 4111C2
+  identifiant: avjgd5dt068
+  lignes:
+    - compteProduit: "706"
+      montantHT: 630
+      tauxTVA: 20
