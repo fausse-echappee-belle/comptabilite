@@ -1,0 +1,8 @@
+- type: Réception facture fournisseur
+  identifiant: s097ptmr1co
+  compteFournisseur: 4011F2
+  date: 2023-11-02T00:00:00.000Z
+  lignes:
+    - montantHT: 0
+      tauxTVA: 0
+      compteProduit: "626"
