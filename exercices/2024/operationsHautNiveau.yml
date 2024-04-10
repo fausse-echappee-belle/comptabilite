@@ -35,7 +35,7 @@
       tauxTVA: 20
 - type: Envoi facture à client
   numéroFacture: Fact152
-  date: 2024-04-11T00:00:00.000Z
+  date: 2024-01-11T00:00:00.000Z
   compteClient: 4111C2
   identifiant: rmvvlrhbpvc
   lignes:
