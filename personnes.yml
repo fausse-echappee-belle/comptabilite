@@ -12,3 +12,7 @@
   nom: Clever Cloud
   type: Morale
   compteFournisseur: 4011F1
+- identifiant: a248pofubt
+  nom: Groupe LAMO
+  type: Morale
+  compteClient: 4111C2
