@@ -87,3 +87,12 @@
     - compteProduit: "706"
       montantHT: 8257.81
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: Fact161
+  date: 2024-03-06T00:00:00.000Z
+  compteClient: 4111C7
+  identifiant: e6t5kr99h0o
+  lignes:
+    - compteProduit: "706"
+      montantHT: 800
+      tauxTVA: 20
