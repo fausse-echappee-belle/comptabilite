@@ -69,3 +69,12 @@
     - compteProduit: "706"
       montantHT: 5000
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: Fact158
+  date: 2024-02-13T00:00:00.000Z
+  compteClient: 4111C1
+  identifiant: 8shj8daib78
+  lignes:
+    - compteProduit: "706"
+      montantHT: 2750
+      tauxTVA: 20
