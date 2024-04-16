@@ -36,3 +36,7 @@
   nom: CashConverters
   type: Morale
   compteFournisseur: 4011F2
+- identifiant: jm37k1gm3ls
+  nom: Ozon - Metacartes
+  type: Morale
+  compteClient: 4111C7
