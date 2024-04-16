@@ -48,3 +48,7 @@
   nom: EllipSIG
   type: Morale
   compteClient: 4111C12
+- identifiant: knpsql4e6po
+  nom: Numa
+  type: Morale
+  compteClient: 4111C13
