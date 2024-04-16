@@ -78,3 +78,12 @@
     - compteProduit: "706"
       montantHT: 2750
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: Fact159
+  date: 2024-02-22T00:00:00.000Z
+  compteClient: 4111C4
+  identifiant: hbc7daa7cr8
+  lignes:
+    - compteProduit: "706"
+      montantHT: 8257.81
+      tauxTVA: 20
