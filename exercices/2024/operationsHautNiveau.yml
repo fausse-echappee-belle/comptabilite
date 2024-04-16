@@ -96,3 +96,12 @@
     - compteProduit: "706"
       montantHT: 800
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: Fact160
+  date: 2024-03-06T00:00:00.000Z
+  compteClient: 4111C7
+  identifiant: hg86baikksg
+  lignes:
+    - compteProduit: "706"
+      montantHT: 340
+      tauxTVA: 20
