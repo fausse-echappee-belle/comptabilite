@@ -105,3 +105,12 @@
     - compteProduit: "706"
       montantHT: 340
       tauxTVA: 20
+- type: Envoi facture à client
+  numéroFacture: fake
+  date: 2024-10-30T16:21:12.923Z
+  compteClient: 4111C1
+  identifiant: dcmpt3i6doo
+  lignes:
+    - compteProduit: ""
+      montantHT: 200
+      tauxTVA: 20
